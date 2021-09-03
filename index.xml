@@ -1,7 +1,10 @@
-[
 {
-"version":"1.2,
-"changelog":"Hello user! you are using old version of Zide Patcher, you need to update to the latest version in order to experience a total multifunctions.",
-"link":"https://youtube.com/channel/UCawFXj4xuEZMhwqZtswEGIA"
+  "Visibility": "VISIBLE",
+  "Title": "Update Release",
+  "Description": "Hello user! you are using old version of Zide Patcher, you need to update to the latest version in order to experience a total multifunctions.",
+  "MainTextButton": "Update",
+  "Cancelable": false,
+  "CancelButtonText": "Exit",
+  "DownloadLink": "https://youtube.com/channel/UCawFXj4xuEZMhwqZtswEGIA",
+  "Version": 1.1
 }
-]
